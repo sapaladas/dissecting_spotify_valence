@@ -4,7 +4,7 @@
 *MSc in Data Science, Department of Informatics*  
 *Athens University of Economics and Business*
 
-<!-- ![spotify](./images/spotify.jpeg) -->
+![spotify](./images/spotify_image.jpeg)
 
 ## *Table of Contents*
 1. [Introduction](#introduction)
