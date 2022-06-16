@@ -54,7 +54,8 @@
 - We use Pearson's r to measure whether there is a linear relationship between any pair of features
 - The correlation coefficient ranges from -$1$ to +$1$
 - An absolute value of $1$ implies that a linear equation describes the relationship between $X$ and $Y$ perfectly
-- A value of +$1$ implies that all data points lie on a line for which $Y$ increases as $X$ increases and vice versa for −$1$
+- A value of +$1$ implies that all data points lie on a line for which $Y$ increases as $X$ increases
+- On the other hand, a value of −$1$ implies that all data points lie on a line for which $Y$ decreases as $X$ increases
 - A value of $0$ implies that there is no linear dependency between the variables
 
 ![correlation matrix](./images/pairwise_feature_correlation.svg)
